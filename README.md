@@ -1,4 +1,5 @@
 # Air Traffic Controller
+> Air traffic control program that manages planes registration, taxing, and takeoff
 
 ## General Information
 - This project utilizes a local server thats created in C that allows 
